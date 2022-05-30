@@ -1,0 +1,17 @@
+.menu{
+    background-color: darkblue;
+    color: white;
+}
+.footer-heading,.footer-paragraph{
+    color: white;
+}
+.footer-hr{
+    border: 1px solid white;
+}
+.bottom-footer{
+    background-color: darkblue;
+}
+h5{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

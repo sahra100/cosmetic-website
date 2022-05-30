@@ -1,0 +1,13 @@
+th,td{
+    text-align: center;
+}
+th{
+    background: darkblue;
+    color: white;
+    font-size: 18px;
+}
+h2{
+    text-align: center;
+    padding-top: 1.2em;
+    padding-bottom: .5em;
+}
